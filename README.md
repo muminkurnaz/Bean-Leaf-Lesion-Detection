@@ -24,6 +24,11 @@ In this project, we utilize several image processing techniques to analyze and d
 
 - `leaf_lesion_code.ipynb`: Source code files for the project.
 
+## Results
+
+The results of the image processing techniques applied to bean leaf images are documented in the results/ directory. Each technique's impact on the images is visualized and analyzed.
+
+
 ## Installation
 
 To run this project, you need to have Python and the following libraries installed:
