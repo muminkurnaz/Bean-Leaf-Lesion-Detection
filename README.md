@@ -22,7 +22,7 @@ In this project, we utilize several image processing techniques to analyze and d
 
 ## Files
 
-- `leaf_lesion_code.ipynb`: Source code files for the project.
+- `leaf_lesion_code.py`: Source code files for the project.
 
 ## Results
 
